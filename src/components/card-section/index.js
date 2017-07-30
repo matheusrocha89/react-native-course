@@ -9,6 +9,7 @@ const styles = {
     padding: 5,
     backgroundColor: '#FFFFFF',
     justifyContent: 'flex-start',
+    flexDirection: 'row',
     borderColor: '#DDDDDD',
     position: 'relative',
   },
